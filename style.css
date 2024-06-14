@@ -42,3 +42,8 @@
     color: #FFFFFF;
     font-size: 1rem;
 }
+
+.add-icon{
+    display:flex;
+    align-items: center;
+}
