@@ -8,6 +8,7 @@
     height: 70px;
     background-color: #0f1111;
     color:white;
+    display:flex;
 }
 
 .nav-logo{
@@ -21,4 +22,20 @@
     background-size: cover;
     width:100px;
     height:50px;
+}
+
+.border{
+    border: 1.5px solid transparent;
+}
+
+.border:hover{
+    border: 1.5px solid white ;
+}
+
+.deliver{
+    color:#CCCCCC;
+}
+
+.location{
+    color:#FFFFFF;
 }
