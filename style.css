@@ -32,10 +32,13 @@
     border: 1.5px solid white ;
 }
 
+/* For second box */
 .deliver{
     color:#CCCCCC;
+    font-size:0.80rem;
 }
 
 .location{
-    color:#FFFFFF;
+    color: #FFFFFF;
+    font-size: 1rem;
 }
