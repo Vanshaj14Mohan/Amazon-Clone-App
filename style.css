@@ -9,6 +9,7 @@
     background-color: #0f1111;
     color:white;
     display:flex;
+    align-items:center;
 }
 
 .nav-logo{
@@ -36,11 +37,13 @@
 .deliver{
     color:#CCCCCC;
     font-size:0.80rem;
+    margin-left: 15px;
 }
 
 .location{
     color: #FFFFFF;
     font-size: 1rem;
+    margin-left: 4px;
 }
 
 .add-icon{
