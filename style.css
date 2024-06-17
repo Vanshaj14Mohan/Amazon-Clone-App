@@ -94,3 +94,11 @@
 }
 
 /* For box 4 */
+span{
+    font-size:0.85rem;
+}
+
+.nav-sign{
+    font-size:0.9rem;
+    font-weight: 730;
+}
