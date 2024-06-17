@@ -10,6 +10,7 @@
     color:white;
     display:flex;
     align-items:center;
+    justify-content: space-evenly;
 }
 
 .nav-logo{
@@ -91,3 +92,5 @@
     border-bottom-right-radius: 4px;
     color:black;
 }
+
+/* For box 4 */
