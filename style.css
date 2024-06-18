@@ -108,6 +108,11 @@ span{
 }
 
 /* For box 5 */
-{
-    
+.nav-cart i{
+    font-size:28px;
+}
+
+.nav-cart{
+    font-size:0.9rem;
+    font-weight:700;
 }
