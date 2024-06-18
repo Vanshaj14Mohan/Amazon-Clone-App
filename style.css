@@ -93,6 +93,10 @@
     color:black;
 }
 
+.nav-search:hover{
+    border:2px solid orange;
+}
+
 /* For box 4 */
 span{
     font-size:0.85rem;
@@ -101,4 +105,9 @@ span{
 .nav-sign{
     font-size:0.9rem;
     font-weight: 730;
+}
+
+/* For box 5 */
+{
+    
 }
