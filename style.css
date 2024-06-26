@@ -148,3 +148,16 @@ span{
     background-size: cover;
     height:600px;
 }
+
+.hero-msg{
+    background-color: white;
+    color:black;
+    height:40px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-msg a{
+    color: #007185;
+}
