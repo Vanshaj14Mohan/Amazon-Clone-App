@@ -146,7 +146,10 @@ span{
 .hero-section{
     background-image: url("hero_image.jpg");
     background-size: cover;
-    height:600px;
+    height:380px;
+    display:flex;
+    justify-content: center;
+    align-items:flex-end;
 }
 
 .hero-msg{
@@ -156,6 +159,8 @@ span{
     display:flex;
     align-items: center;
     justify-content: center;
+    width:80%;
+    margin-bottom: 30px;
 }
 
 .hero-msg a{
