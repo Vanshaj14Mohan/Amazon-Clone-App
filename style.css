@@ -184,4 +184,5 @@ span{
 
 .box-img{
     height:250px;
+    background-image: url("box1_image.jpg");
 }
