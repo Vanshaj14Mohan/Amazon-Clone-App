@@ -175,14 +175,20 @@ span{
 }
 
 .box{
-    border:2px solid black;
+    /* border:2px solid black; */
     height:300px;
     width:23%;
     background-color: white;
     padding: 20px 0px 15px;
+    margin-top: 10px;
 }
 
 .box-img{
     height:250px;
     background-image: url("box1_image.jpg");
+}
+
+.box-content{
+    margin-left: 10px;
+    margin-right: 10px;
 }
