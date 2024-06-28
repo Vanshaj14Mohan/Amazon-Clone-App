@@ -186,9 +186,15 @@ span{
 .box-img{
     height:250px;
     background-image: url("box1_image.jpg");
+    margin-top:10px;
+    margin-bottom:10px;
 }
 
 .box-content{
     margin-left: 10px;
     margin-right: 10px;
+}
+
+.box-content p {
+    color: #007185;
 }
