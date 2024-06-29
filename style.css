@@ -184,6 +184,7 @@ span{
     margin-top: 10px;
 }
 
+/* Styling for boxes */
 .box-img1{
     height:250px;
     background-image: url("box1_image.jpg");
@@ -216,6 +217,37 @@ span{
     margin-bottom:10px;
 }
 
+.box-img5{
+    height:250px;
+    background-image: url("box5_image.jpg");
+    background-size: cover;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.box-img6{
+    height:250px;
+    background-image: url("box6_image.jpg");
+    background-size: cover;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.box-img7{
+    height:250px;
+    background-image: url("box7_image.jpg");
+    background-size: cover;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.box-img8{
+    height:250px;
+    background-image: url("box8_image.jpg");
+    background-size: cover;
+    margin-top:10px;
+    margin-bottom:10px;
+}
 
 .box-content{
     margin-left: 10px;
