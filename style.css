@@ -259,3 +259,16 @@ span{
 .box-content p {
     color: #007185;
 }
+
+
+.bikes{
+    /* display:flex; */
+    border:2px solid black;
+    width:1400px;
+    height:260px;
+    padding:10px 20px 10px 20px;
+    margin:0px 0px 20px 50px;
+    background-color: #e2e7e6;
+    background-image: url("71sitt8x2zL._AC_SY200_.jpg");
+    background-size: cover;
+}
