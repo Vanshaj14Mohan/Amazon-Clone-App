@@ -306,7 +306,21 @@ ul a{
         align-items: center;
 }
 
+.copyright{
+    background-color: #0f1111;
+    color:white;
+    height:80px;
+    text-align: center;
+    font-size: 0.8rem;
+}
 
+.pages{
+    padding-top: 10px;
+}
+
+.copyright2{
+    padding-top:10px;
+}
 
 /* Extra part */
 /* .bikes{
